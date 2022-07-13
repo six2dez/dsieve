@@ -1,4 +1,4 @@
-module github.com/trickest/dsieve
+module github.com/six2dez/dsieve
 
 go 1.18
 
